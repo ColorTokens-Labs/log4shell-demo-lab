@@ -47,7 +47,7 @@ from this github and build it.
 
 ```
 git clone https://github.com/ColorTokens-Labs/JNDIExploit.git
-cd JNDIExploit.git
+cd JNDIExploit
 mvn package
 ```
 
